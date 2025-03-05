@@ -1,0 +1,6 @@
+matplotlib
+notebook
+pandas
+pyarrow
+requests
+seaborn
